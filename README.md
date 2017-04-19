@@ -1,4 +1,7 @@
-# test coverage for  [marked-terminal (v2.0.0)](https://github.com/mikaelbr/marked-terminal)  [![npm package](https://img.shields.io/npm/v/npmtest-marked-terminal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-marked-terminal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-marked-terminal.svg)](https://travis-ci.org/npmtest/node-npmtest-marked-terminal)
+# npmtest-marked-terminal
+
+#### test coverage for  [marked-terminal (v2.0.0)](https://github.com/mikaelbr/marked-terminal)  [![npm package](https://img.shields.io/npm/v/npmtest-marked-terminal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-marked-terminal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-marked-terminal.svg)](https://travis-ci.org/npmtest/node-npmtest-marked-terminal)
+
 #### A custom render for marked to output to the Terminal
 
 [![NPM](https://nodei.co/npm/marked-terminal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/marked-terminal)
